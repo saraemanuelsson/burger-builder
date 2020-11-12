@@ -9,7 +9,7 @@ const SideDrawer = (props) => {
 
     return (
         <div className="sideDrawer">
-            <Logo />
+            <Logo height="11%" />
             <nav>
                 <NavigationItems />
             </nav>
